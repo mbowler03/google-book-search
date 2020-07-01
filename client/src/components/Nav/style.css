@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #6200b3
+}
+
+.navbar-brand{
+    background-color: #6200b3
+}
+.navbar-nav{
+    background-color: #6200b3;
+}
+a {
+    text-decoration: none;
+    color: white
+}
+ a:hover {
+    text-decoration: underline;
+    color: white
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.nav-item {
+    font-size: 25px;
+
+}

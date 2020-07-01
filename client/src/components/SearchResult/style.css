@@ -1,0 +1,22 @@
+.card{
+    border-radius: 20px;
+    background-color: #ea7af4;
+    padding-bottom: 30px;
+}
+.card{
+color: white;
+}
+.search-list{
+    border-radius: 15px;
+    background-color: #ea7af4
+}
+
+.saveBook {
+    border-radius: 5px;
+    margin-left: 10px
+}
+
+.viewBook {
+    border-radius: 5px;
+    margin-left: 5px
+}
