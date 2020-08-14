@@ -2,8 +2,8 @@
 
 
 ## Overview
-ReactGoogle Books Search app. This used React components to query and display books based on user searches. 
-MongoDB were also used so that users can save books to review or purchase later.
+ReactGoogle Books Search app. This uses React components and Axios to query and display books based on user searches. 
+MongoDB was also used so that users can save books to review or purchase later. While this is a simple app, I believe that the site shows a good range of skills from using a database to fetching data from a restful api. 
 
 ## INITIAL SCREEN TO SEARCH OR SAVE
 ![home snip](https://user-images.githubusercontent.com/57423637/90277409-8425f580-de33-11ea-9d5b-2a743a554067.PNG)
